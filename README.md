@@ -9,9 +9,9 @@
 
 ## Telas
 <div align="center">
-<img src="https://i.imgur.com/CsK3fP1.png" width=300>
-<img src="https://i.imgur.com/rpttasb.png" width=300>
-<img src="https://i.imgur.com/4AE93Ds.png" width=300>
+<img src="https://i.imgur.com/CsK3fP1.png" width=200>
+<img src="https://i.imgur.com/rpttasb.png" width=200>
+<img src="https://i.imgur.com/4AE93Ds.png" width=200>
  </div> 
 
 ## Sobre o Projeto
